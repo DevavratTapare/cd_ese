@@ -1,0 +1,7 @@
+Enter number of quadruples: 5
+Enter quadruples (op arg1 arg2 result):
+= 5 - a
+= 10 - b
++ 5 10 c
+* 3 4 d
++ c d e
