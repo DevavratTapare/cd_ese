@@ -1,4 +1,0 @@
-Hello, Compiler Design!
-Lex and Yacc are tools used to build compilers.
-1234567890
-@#$$%^&*

@@ -1,3 +1,0 @@
-HELLO, WORLD!
-This Is A Test.
-1234 ABC abc.

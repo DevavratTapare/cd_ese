@@ -1,4 +1,0 @@
-do {
-    do {
-    } while(y);
-} while(x);
